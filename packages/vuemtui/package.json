@@ -1,7 +1,7 @@
 {
   "name": "vuemtui",
   "description": "Vue.js 2 Semantic Component Framework",
-  "version": "0.0.0.1",
+  "version": "0.0.1-alpha.0",
   "author": {
     "name": "mactang"
   },
